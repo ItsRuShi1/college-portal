@@ -111,6 +111,7 @@ graph TD
 
     C1 -.->|Read| R
     D1 -.->|Write| R
+```
 
 ## 👥 Contributors
 
