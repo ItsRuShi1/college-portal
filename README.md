@@ -111,3 +111,15 @@ graph TD
 
     C1 -.->|Read| R
     D1 -.->|Write| R
+
+## 👥 Contributors
+
+This project was a successful collaboration between:
+
+* **[Rushikesh Gadade]** - *Lead Developer* - [@ItsRuShi1](https://github.com/ItsRuShi1)
+    * Developed core authentication logic and the Student Dashboard module.
+    * Implemented global theme persistence using `SharedPreferences`.
+
+* **[Chaitanya Bolake]** - *Co-Developer* - [@ChaitanyaBolake](https://github.com/ChaitanyaBolake)
+    * Architected the Teacher Module and Digital Register logic.
+    * Designed the responsive UI layouts for both mobile and desktop views.
