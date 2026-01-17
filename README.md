@@ -124,3 +124,9 @@ This project was a successful collaboration between:
 * **[Chaitanya Bolake]** - *Co-Developer* - [@ChaitanyaBolake](https://github.com/ChaitanyaBolake)
     * Architected the Teacher Module and Digital Register logic.
     * Designed the responsive UI layouts for both mobile and desktop views.
+
+* **[Aniket Agarkar]** - *Co-developer* - [@AniketSAgarkar](https://github.com/AniketSAgarkar)
+    * Developed Admin Main Wrapper and Dashboard.
+    * Build Data Base for the Implementation of RBAC.
+
+
