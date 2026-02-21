@@ -1,7 +1,7 @@
 # 🎓 College Portal - Unified Academic Management System
 
 ![Project Status](https://img.shields.io/badge/Status-Prototype-orange)
-![Flutter Version](https://img.shields.io/badge/Flutter-3.x-blue)
+![Flutter Version](https://img.shields.io/badge/Flutter-3.38.9-blue)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Windows%20%7C%20Web-lightgrey)
 
 > A comprehensive, cross-platform Digital Student Operations (DSO) solution connecting Students, Teachers, and Administrators in a single, secure environment.
